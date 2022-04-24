@@ -1,4 +1,4 @@
-How to create an acrylic enclosure:
+##How to create an acrylic enclosure:
 
 Short summary of why an enclosure is necessary, i.e the benefits
 
