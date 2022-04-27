@@ -18,29 +18,28 @@ Solder your project
 - Solder the project 
     - How to solder
         - Pins, wires, resistors, etc. 
- 
-How the soldering board will be positioned with the Arduino
-Soldering Tips:
-When to use stranded vs solid wire
-How long to cut the wire
-How to keep measurement and positioning in mind
-How to fix a soldering mistake 
+    - How the soldering board will be positioned with the Arduino
+- Soldering Tips:
+    - When to use stranded vs solid wire
+    - How long to cut the wire
+    - How to keep measurement and positioning in mind
+    - How to fix a soldering mistake 
 Test the soldered project
-Make sure it works before moving onto the enclosure
-Debugging 
+- Make sure it works before moving onto the enclosure
+- Debugging 
 Design the enclosure
-Go to https://en.makercase.com/ 
-Decide which box design 
-List benefits to the different types of designs
-Input measurements for the box
-Check the visualization and Save 
+- Go to https://en.makercase.com/ 
+- Decide which box design 
+    - List benefits to the different types of designs
+- Input measurements for the box
+- Check the visualization and Save 
 Print with a laser cutting machine
-Upload the file to adobe illustrator 
-Follow laser cutting instructions
-Print a prototype on cardboard
-Test the enclosure with your soldered project
-If adjustments are necessary revisit step 4, if not proceed to print on acrylic
+- Upload the file to adobe illustrator 
+- Follow laser cutting instructions
+- Print a prototype on cardboard
+- Test the enclosure with your soldered project
+- If adjustments are necessary revisit step 4, if not proceed to print on acrylic
 Put the enclosure together
-Once the pieces are printed, put the box together 
-Test again for any errors 
+- Once the pieces are printed, put the box together 
+- Test again for any errors 
 
