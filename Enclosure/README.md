@@ -11,12 +11,12 @@ Things you should know/Things to keep in mind:
 Steps (including pictures):
 
 Build your project
-    Prototyping on a solderless breadboard 
-Running tests
+- Prototyping on a solderless breadboard 
+- Running tests
 Solder your project
-Take measurement of how large you’d like the enclosure to be and in what position you like your circuit placed 
-Solder the project 
-How to solder
+- Take measurement of how large you’d like the enclosure to be and in what position you like your circuit placed 
+- Solder the project 
+    - How to solder
 Pins, wires, resistors, etc. 
 How the soldering board will be positioned with the Arduino
 Soldering Tips:
