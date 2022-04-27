@@ -1,4 +1,13 @@
-Figure what kind of enclosure you want. Enclosures can be made out of many different materials depending on the purpose and usage of the project. However, for this section we will focus on acrylic for the enclosure. 
+Designing the Enclosure:
+
+- Go to https://en.makercase.com/ 
+- Decide which box design 
+    - List benefits to the different types of designs
+- Input measurements for the box
+- Check the visualization and Save 
+
+
+1. Figure what kind of enclosure you want. Enclosures can be made out of many different materials depending on the purpose and usage of the project. However, for this section we will focus on acrylic for the enclosure. 
 Benefits for acrylic:
 Excellent optical clarity & transparency
 Highly resistant to variations in temperature
