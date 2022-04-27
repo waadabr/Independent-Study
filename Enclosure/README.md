@@ -13,6 +13,7 @@ Steps (including pictures):
 Build your project
 - Prototyping on a solderless breadboard 
 - Running tests
+- 
 
 Solder your project
 - Take measurement of how large you’d like the enclosure to be and in what position you like your circuit placed 
@@ -25,21 +26,28 @@ Solder your project
     - How long to cut the wire
     - How to keep measurement and positioning in mind
     - How to fix a soldering mistake 
+    
+    
 Test the soldered project
 - Make sure it works before moving onto the enclosure
 - Debugging 
+
 Design the enclosure
 - Go to https://en.makercase.com/ 
 - Decide which box design 
     - List benefits to the different types of designs
 - Input measurements for the box
 - Check the visualization and Save 
+
+
 Print with a laser cutting machine
 - Upload the file to adobe illustrator 
 - Follow laser cutting instructions
 - Print a prototype on cardboard
 - Test the enclosure with your soldered project
 - If adjustments are necessary revisit step 4, if not proceed to print on acrylic
+
+
 Put the enclosure together
 - Once the pieces are printed, put the box together 
 - Test again for any errors 
