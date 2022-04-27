@@ -17,7 +17,8 @@ Solder your project
 - Take measurement of how large you’d like the enclosure to be and in what position you like your circuit placed 
 - Solder the project 
     - How to solder
-Pins, wires, resistors, etc. 
+        - Pins, wires, resistors, etc. 
+ 
 How the soldering board will be positioned with the Arduino
 Soldering Tips:
 When to use stranded vs solid wire
