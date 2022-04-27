@@ -1,17 +1,17 @@
-##How to create an acrylic enclosure:
+## How to create an acrylic enclosure:
 
 Short summary of why an enclosure is necessary, i.e the benefits
 
 Things you should know/Things to keep in mind:
 
-List of items you will need
-List of things you’ll need to prepare in advance
-List of experiences that might be required, relevant or helpful to complete the task
+- List of items you will need
+- List of things you’ll need to prepare in advance
+- List of experiences that might be required, relevant or helpful to complete the task
 
 Steps (including pictures):
 
 Build your project
-Prototyping on a solderless breadboard 
+    Prototyping on a solderless breadboard 
 Running tests
 Solder your project
 Take measurement of how large you’d like the enclosure to be and in what position you like your circuit placed 
