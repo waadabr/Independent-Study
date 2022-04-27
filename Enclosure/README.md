@@ -13,6 +13,7 @@ Steps (including pictures):
 Build your project
 - Prototyping on a solderless breadboard 
 - Running tests
+
 Solder your project
 - Take measurement of how large you’d like the enclosure to be and in what position you like your circuit placed 
 - Solder the project 
