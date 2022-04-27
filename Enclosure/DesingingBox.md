@@ -8,6 +8,15 @@ Designing the Enclosure:
 
 
 1. Figure what kind of enclosure you want. Enclosures can be made out of many different materials depending on the purpose and usage of the project. However, for this section we will focus on acrylic for the enclosure. 
+    - Benefits for acrylic:
+    - Excellent optical clarity & transparency
+Highly resistant to variations in temperature
+Up to 17 times the impact resistance of ordinary glass
+Half the weight of glass and idea for precision machining
+Highly resistant to different chemicals
+Disadvantages for acrylic:
+Acrylic is touch and durable, but can also be easily scratched
+2. Choose an enclosure design. Using a design platform like, https://en.makercase.com/, you can choose from 3 different enclosure designs: Basic box, polygon box, kerf bent box. 
 Benefits for acrylic:
 Excellent optical clarity & transparency
 Highly resistant to variations in temperature
