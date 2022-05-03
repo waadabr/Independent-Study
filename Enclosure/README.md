@@ -32,7 +32,7 @@ Build your project
     - If you have never soldered before [here](https://www.youtube.com/watch?v=Qps9woUGkvI ) is a quick tutorial on how to solder electronic components
     - You will also need to solder female and/or male headers to the pin positions on both sides of the arudino proto shield. This is what will hold the shield in          place with the arduino and secure it. 
     - <img src="images/pinheader.png" style=width:50%;height:50%>
-    - <img src="images/arduinoconnected.jpeg" style=width:50%;height:50%>
+    - <img src="images/arudinoconnected.jpeg" style=width:50%;height:50%>
 
     
     
