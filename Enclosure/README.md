@@ -1,4 +1,4 @@
-# How to Create an acrylic Enclosure:
+# How to Create an Acrylic Enclosure:
 
 Creating an enclosure for an arduino project moves it from a prototype to it's final permanent phase. It allows for a more sturdy and stable project. It can also help with the longevity of your project. 
 
