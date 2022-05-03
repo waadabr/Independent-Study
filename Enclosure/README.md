@@ -40,7 +40,7 @@ Test/Troubleshooting the Soldered Project:
 2. If you run into problems begin by testing the arudino against the original prototype to ensure the code is still running properly.
 3. You can then reference your prototype and ensure you have connected all the necessary wires, resistors, etc. properly.
     - Pay close attention to your arduino proto shield and ensure horizontal connections are properly connected. Note: Shields come in different versions, some pre-        connect rows and others do not.
-    <img src="images/shield1.jpeg" width=50% height=50%) ![](images/shield2.jpeg | width=100)
+    <img src="images/shield1.jpeg" style=width:128px;height:128px> ![](images/shield2.jpeg | width=100)
 4. If your circuit is properly connected then take a closer look at the soldering of your components.	
     - You may need to use a magnifying glass to take a closer look at the connection. Make sure that the solder is not only on the component but securly attached to        the shield as well. Note: Lightly tugging on the wires may help identify a loose connection.
 5. Reestablish any loose connections with solder.
