@@ -15,7 +15,7 @@ Build your project
 - Running tests
 - 
 
-Solder your Project:
+## Solder your Project:
 
 1. Before starting to solder your project begin by estimating and measuring how large you’d like your enclosure to be and in what position
     - Start by identifying where your arduino will be placed at the base of your enclosure. Note: It is best to screw your arudino into the enclosure to establish a        secure foundation for the circuit and ensure it does not move around loosely within the enclosure.
@@ -33,14 +33,15 @@ Solder your Project:
 
     
     
-Test/Troubleshooting the Soldered Project:
+## Test/Troubleshooting the Soldered Project:
 
 1. Once you have completed the soldering of your project, you can now plug it into your ardunio and test to see if it works
     - Note: If your project isn’t working, do not be alarmed it is very typical to run into problems at this stage. 
 2. If you run into problems begin by testing the arudino against the original prototype to ensure the code is still running properly.
 3. You can then reference your prototype and ensure you have connected all the necessary wires, resistors, etc. properly.
     - Pay close attention to your arduino proto shield and ensure horizontal connections are properly connected. Note: Shields come in different versions, some pre-        connect rows and others do not.
-    <img src="images/shield1.jpeg" style=width:50%;height:50%> <img src="images/shield2.jpeg" style=width:50%;height:50%>
+   
+   <img src="images/shield1.jpeg" style=width:50%;height:50%> <img src="images/shield2.jpeg" style=width:50%;height:50%>
 4. If your circuit is properly connected then take a closer look at the soldering of your components.	
     - You may need to use a magnifying glass to take a closer look at the connection. Make sure that the solder is not only on the component but securly attached to        the shield as well. Note: Lightly tugging on the wires may help identify a loose connection.
 5. Reestablish any loose connections with solder.
@@ -48,7 +49,7 @@ Test/Troubleshooting the Soldered Project:
 6. Revisit steps 2-6 until your are able to troubleshoot and get your project working. Once it is up and running we can begin creating the enclosure. 
 
 
-Desinging the Enclosure: 
+## Desinging the Enclosure: 
 
 1. Figure what kind of enclosure you want. Enclosures can be made out of many different materials depending on the purpose and usage of the project. However, for this section we will focus on acrylic for the enclosure. 
     - Benefits for acrylic:
