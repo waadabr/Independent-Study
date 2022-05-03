@@ -91,6 +91,7 @@ Build your project
 6. Print a prototype. Once you’ve completed any customization and finalized the design you can now print a protoype on cardboard to ensure the size works for your project before printing on acrylic.
     - <img src="images/cardboard.jpeg" style=width:50%;height:50%>
 8. Adjust if needed and print final enclosure. Make as many adjustments as needed repeating steps 3-5 and using cardboard prototypes. Once you have a design that fits your project, print on acrylic and put your final enclosure together. 
+    - <img src="images/lasercutting.gif" style=width:50%;height:50%>
 
 
 
