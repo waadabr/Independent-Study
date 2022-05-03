@@ -21,7 +21,8 @@ Build your project
     - Start by identifying where your arduino will be placed at the base of your enclosure. Note: It is best to screw your arudino into the enclosure to establish a        secure foundation for the circuit and ensure it does not move around loosely within the enclosure.
     - <img src="images/arduinoscrew.jpeg" style=width:50%;height:50%>
     - Once you know where your arudiono will be located, hold up the project how you’d like it to stand inside the enclosure. If you have extended parts, such as a         keypad and LEDs in this example, make note of how much wire you will need to reach from the arduino to the LED in the position you want. 
-    - <img src="images/keypad/led.heic" style=width:50%;height:50%>
+    - <img src="images/keypadled.heic" style=width:50%;height:50%>
+    -  <img src="images/wires.heic" style=width:50%;height:50%>
     - Take measurements of the height, width, and depth for your enclosure. Note: It is better to overestimate the measurements and have more space than to squeeze         everything into a smaller enclosure. 
 2. It is recommended to not touch your working prototype but use it as a reference. To begin soldering, make sure to collect all the parts you need and ensure they are working properly. You can do this by replacing new parts in increments in the working prototype and making sure it is still functioning properly. 
     - Items you will need: anything you used in your prototype except for jumper wires, we will instead use stranded or solid wire.
@@ -35,8 +36,8 @@ Build your project
     - <img src="images/soldering.gif" style=width:50%;height:50%>
     - You will also need to solder female and/or male headers to the pin positions on both sides of the arudino proto shield. The type of header you will use depends       on where you need pins inserted. 
         - Female headers have only one side with pins and the other side is where you can connect pins. There are straight and right angle headers.
-        - <img src="images/fheader.jpeg" style=width:50%;height:50%>
-        - <img src="images/rfheader.jpg" style=width:50%;height:50%>
+        - <img src="images/fheader.jpeg" style=width:25%;height:25%>
+        - <img src="images/rfheader.jpg" style=width:25%;height:25%>
         - Male headers have pin on both sides you can insert into the arduino shield and connect another female head. 
         - <img src="images/mheader.jpeg" style=width:50%;height:50%>
     - This is what will hold the shield in place with the arduino and secure it. 
