@@ -30,6 +30,7 @@ Build your project
     - You will also need an arduino prototyping shield. This is where you will solder your cricuit and eventually connect your arduino into. 
 3. You will now solder your components into the arduino proto shield following the prototype you made earlier.
     - If you have never soldered before [here](https://www.youtube.com/watch?v=Qps9woUGkvI ) is a quick tutorial on how to solder electronic components
+    - <img src="images/soldering.gif" style=width:50%;height:50%>
     - You will also need to solder female and/or male headers to the pin positions on both sides of the arudino proto shield. This is what will hold the shield in          place with the arduino and secure it. 
     - <img src="images/pinheader.png" style=width:50%;height:50%>
     - <img src="images/arudinoconnected.jpeg" style=width:50%;height:50%>
@@ -43,9 +44,10 @@ Build your project
 2. If you run into problems begin by testing the arudino against the original prototype to ensure the code is still running properly.
 3. You can then reference your prototype and ensure you have connected all the necessary wires, resistors, etc. properly.
     - Pay close attention to your arduino proto shield and ensure horizontal connections are properly connected. Note: Shields come in different versions, some pre-        connect rows and others do not.
-    - <img src="images/shield1.jpeg" style=width:50%;height:50%> <img src="images/shield2.jpeg" style=width:50%;height:50%>
+    - <img src="images/shield1.jpeg" style=width:25%;height:25%> <img src="images/shield2.jpeg" style=width:25%;height:25%>
 4. If your circuit is properly connected then take a closer look at the soldering of your components.	
     - You may need to use a magnifying glass to take a closer look at the connection. Make sure that the solder is not only on the component but securly attached to        the shield as well. Note: Lightly tugging on the wires may help identify a loose connection.
+    - <img src="images/soldermistakes.png" style=width:50%;height:50%>
 5. Reestablish any loose connections with solder.
     - If you made a mistake while soldering, you make correct it by reheating the misplaced solder. This will turn it back into liquid, and you must quickly slap it        onto a table or surface to remove it. 
 6. Revisit steps 2-6 until your are able to troubleshoot and get your project working. Once it is up and running we can begin creating the enclosure. 
