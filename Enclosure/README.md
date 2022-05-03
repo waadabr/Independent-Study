@@ -1,4 +1,4 @@
-# How to create an acrylic enclosure:
+# How to Create an acrylic Enclosure:
 
 Creating an enclosure for an arduino project moves it from a prototype to it's final permanent phase. It allows for a more sturdy and stable project. It can also help with the longevity of your project. 
 
@@ -22,13 +22,13 @@ Creating an enclosure for an arduino project moves it from a prototype to it's f
 - Experiences that are relevant or helpful to complete the task:
     - You may find it useful to read through [Getting Started with Arduino](https://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334) for more information. 
 
-## Step-by-Step Instructions(including pictures):
+# Step-by-Step Instructions(including pictures):
 
-## Build your project
+## 1. Build your project
 - Prototyping on a solderless breadboard 
 - Running tests
 
-## Solder your Project:
+## 2. Solder your Project:
 
 1. Before starting to solder your project begin by estimating and measuring how large you’d like your enclosure to be and in what position
     - Start by identifying where your arduino will be placed at the base of your enclosure. Note: It is best to screw your arudino into the enclosure to establish a        secure foundation for the circuit and ensure it does not move around loosely within the enclosure.
@@ -59,7 +59,7 @@ Creating an enclosure for an arduino project moves it from a prototype to it's f
 
     
     
-## Test/Troubleshooting the Soldered Project:
+## 3. Test/Troubleshooting the Soldered Project:
 
 1. Once you have completed the soldering of your project, you can now plug it into your ardunio and test to see if it works
     - _Note: If your project isn’t working, do not be alarmed it is very typical to run into problems at this stage. _
@@ -75,7 +75,7 @@ Creating an enclosure for an arduino project moves it from a prototype to it's f
 6. Revisit steps 2-6 until you are able to troubleshoot and get your project working. Once it is up and running we can begin creating the enclosure. 
 
 
-## Designing the Enclosure: 
+## 4. Designing the Enclosure: 
 
 1. Figure what kind of enclosure you want. Enclosures can be made out of many different materials depending on the purpose and usage of the project. However, for this section we will focus on acrylic for the enclosure. 
     - Benefits for acrylic:
@@ -101,22 +101,10 @@ Creating an enclosure for an arduino project moves it from a prototype to it's f
     - <img src="images/box4.png" style=width:50%;height:50%>
     - Using the selection tool you can drag edges as preferred for any customized sides or pieces. You can also add circles for sections to create space for hinges to      be screwed if the box is meant to be opened. 
     - <img src="images/box5.png" style=width:50%;height:50%>
-6. Print a prototype. Once you’ve completed any customization and finalized the design you can now print a protoype on cardboard to ensure the size works for your project before printing on acrylic.
+
+## 5. Print with a laser cutting machine
+1. Print a prototype. Once you’ve completed any customization and finalized the design you can now print a protoype on cardboard to ensure the size works for your project before printing on acrylic.
+    - To print with a laser cutter upload the adobe illustrator file and follow the instructions to adjust speed, power, and vector settings according to your              instructions. _Note: For New York University Abu Dhabi students be sure to schedule an appointment to access the laser cutting machine and have a lab assistant         help you. _
     - <img src="images/cardboard.jpeg" style=width:50%;height:50%>
-8. Adjust if needed and print the final enclosure. Make as many adjustments as needed by repeating steps 3-5 and using cardboard prototypes. Once you have a design that fits your project, print on acrylic and put your final enclosure together. 
+2. Adjust if needed and print the final enclosure. Make as many adjustments as needed by repeating the previous step and using cardboard prototypes. Once you have a design that fits your project, print on acrylic and put your final enclosure together. 
     - <img src="images/lasercutting.gif" style=width:50%;height:50%>
-
-
-
-Print with a laser cutting machine
-- Upload the file to adobe illustrator 
-- Follow laser cutting instructions
-- Print a prototype on cardboard
-- Test the enclosure with your soldered project
-- If adjustments are necessary revisit step 4, if not proceed to print on acrylic
-
-
-Put the enclosure together
-- Once the pieces are printed, put the box together 
-- Test again for any errors 
-
