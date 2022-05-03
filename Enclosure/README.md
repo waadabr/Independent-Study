@@ -26,10 +26,13 @@ Build your project
         - Solid wire is thicker, and offers higher current capacity. They are greater for longer distances since it features less dissipation. 
         - Stranded wire offers superior bendability and flexibility, making them easier to route around obstacles. They can sustain more vibration and flexing without          breaking. 
         - When it comes down to choosing between solid and stranded wire there is no clear choice, pay attention to the needs of your project. 
+        - <img src="images/solidstranded.jpeg" style=width:50%;height:50%>
     - You will also need an arduino prototyping shield. This is where you will solder your cricuit and eventually connect your arduino into. 
 3. You will now solder your components into the arduino proto shield following the prototype you made earlier.
     - If you have never soldered before [here](https://www.youtube.com/watch?v=Qps9woUGkvI ) is a quick tutorial on how to solder electronic components
     - You will also need to solder female and/or male headers to the pin positions on both sides of the arudino proto shield. This is what will hold the shield in          place with the arduino and secure it. 
+    - <img src="images/pinheader.png" style=width:50%;height:50%>
+    - <img src="images/arduinoconnected.jpeg" style=width:50%;height:50%>
 
     
     
