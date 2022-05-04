@@ -104,7 +104,7 @@ Creating an enclosure for an arduino project moves it from a prototype to it's f
 
 ## 5. Print with a laser cutting machine
 1. Print a prototype. Once you’ve completed any customization and finalized the design you can now print a protoype on cardboard to ensure the size works for your project before printing on acrylic.
-    - To print with a laser cutter upload the adobe illustrator file and follow the instructions to adjust speed, power, and vector settings according to your              instructions. _Note: For New York University Abu Dhabi students be sure to schedule an appointment to access the laser cutting machine and have a lab assistant         help you. _
+    - To print with a laser cutter upload the adobe illustrator file and follow the instructions to adjust speed, power, and vector settings according to your              instructions. _Note: For New York University Abu Dhabi students be sure to schedule an appointment to access the laser cutting machine and have a lab assistant         help you._
     - <img src="images/cardboard.jpeg" style=width:50%;height:50%>
 2. Adjust if needed and print the final enclosure. Make as many adjustments as needed by repeating the previous step and using cardboard prototypes. Once you have a design that fits your project, print on acrylic and put your final enclosure together. 
     - <img src="images/lasercutting.gif" style=width:50%;height:50%>
