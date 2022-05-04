@@ -62,7 +62,7 @@ Creating an enclosure for an arduino project moves it from a prototype to it's f
 ## 3. Test/Troubleshooting the Soldered Project:
 
 1. Once you have completed the soldering of your project, you can now plug it into your ardunio and test to see if it works
-    - _Note: If your project isn’t working, do not be alarmed it is very typical to run into problems at this stage. _
+    - _Note: If your project isn’t working, do not be alarmed it is very typical to run into problems at this stage._
 2. If you run into problems begin by testing the arudino against the original prototype to ensure the code is still running properly.
 3. You can then reference your prototype and ensure you have connected all the necessary wires, resistors, etc. properly.
     - Pay close attention to your arduino proto shield and ensure horizontal connections are properly connected. _Note: Shields come in different versions, some pre-        connect rows and others do not._
