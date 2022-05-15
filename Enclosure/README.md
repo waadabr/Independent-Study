@@ -38,12 +38,12 @@ Creating an enclosure for an arduino project moves it from a prototype to it's f
     - Optional: LCD monitor, servo, etc.
 3. To set up the project you can use the following models to create a prototype on the solderless breadboard:
     - The keypad will be wired directly to the arduino. _Note: Pressing a button closes the switch between a column and a row trace, allowing current to flow between a     column pin and a row pin. The Arduino detects which button is pressed by detecting the row and column pin that's connected to the button._
-    - <img src="images/keypadphoto.png" style=width:25%;height:25%>
-    - <img src="images/diagram1.png" style=width:25%;height:25%>
+    - <img src="images/keypadphoto.png" style=width:50%;height:50%>
+    - <img src="images/diagram1.png" style=width:50%;height:50%>
     - The LEDs will be wired to pins x and y on the arduino and you can create a circuit on the solderless breadboard using the model
     - <img src="images/ledphoto.png" style=width:25%;height:25%>
-    - <img src="images/diagram3.png" style=width:25%;height:25%>
-    - <img src="images/photocircuit.png" style=width:25%;height:25%>
+    - <img src="images/diagram3.png" style=width:50%;height:50%>
+    - <img src="images/photocircuit.png" style=width:50%;height:50%>
 4. Download and edit this code file to set the combination code and adjust any pins you used that may differ in the code
     - Include the code file 
 5. Connect the Arudino to your laptop to run the code and check if everything is working. Specifically check that once you enter the correct code the green LED lights  up, and otherwise the red LED is on. 
@@ -114,9 +114,9 @@ Creating an enclosure for an arduino project moves it from a prototype to it's f
     - _Note: Unless otherwise necessary, it is reccomended to go with the basic box._
     - <img src="images/box1.png" style=width:50%;height:50%>
 4. Modify enclosure design. Using the same platform you can now modify the box your creating. 
-    - Modifications include the width, height, and depth of the box. Using the prior measurements you took input the amounts to see a virtual display of your               enclosure.You can also indicate whether the measurements are for the inner or outer dimensions. Note: For this example, we want a box with an opening for the Keypad and LEDs. Reference the below diagram for a visual representation. You will also need to source hot clue and heatshrink for stablizing the LEDs once they are placed in the holes. The Keypad as a sticky back so it will just be placed on the enclosure.
-    - <img src="images/diagram2.png" style=width:25%;height:25%>
-    - <img src="images/heatshrink.png" style=width:25%;height:25%>
+    - Modifications include the width, height, and depth of the box. Using the prior measurements you took input the amounts to see a virtual display of your               enclosure.You can also indicate whether the measurements are for the inner or outer dimensions._ Note: For this example, we want a box with an opening for the Keypad and LEDs. Reference the below diagram for a visual representation. You will also need to source hot clue and heatshrink for stablizing the LEDs once they are placed in the holes. The Keypad as a sticky back so it will just be placed on the enclosure._
+    - <img src="images/diagram2.png" style=width:50%;height:50%>
+    - <img src="images/heatshrink.jpeg" style=width:50%;height:50%>
     - <img src="images/box2.png" style=width:50%;height:50%>
     - The thickness of your box should correspond to the acrylic piece you will be using.
     - You can also decide whether you’d like the box to be open or closed
