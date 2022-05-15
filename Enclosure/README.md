@@ -43,7 +43,7 @@ Creating an enclosure for an arduino project moves it from a prototype to it's f
     - The LEDs will be wired to pins x and y on the arduino and you can create a circuit on the solderless breadboard using the model
     - <img src="images/ledphoto.png" style=width:25%;height:25%>
     - <img src="images/diagram3.png" style=width:50%;height:50%>
-    - <img src="images/photocircuit.png" style=width:50%;height:50%>
+    - <img src="images/photocircuit.PNG" style=width:50%;height:50%>
 4. Download and edit this code file to set the combination code and adjust any pins you used that may differ in the code
     - Include the code file 
 5. Connect the Arudino to your laptop to run the code and check if everything is working. Specifically check that once you enter the correct code the green LED lights  up, and otherwise the red LED is on. 
